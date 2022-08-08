@@ -1,7 +1,7 @@
  <h1 align="center">✨ 𝘽𝙡𝙖𝙘𝙠 𝙐𝙨𝙚𝙧𝙗𝙤𝙩 ✨</h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/940f21be8d8863b6c70ae.jpg">
+  <img src="https://telegra.ph/file/28eb7cc73f6812cdd590f.jpg">
 </p>
 
  • Black-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
